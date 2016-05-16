@@ -1,4 +1,0 @@
-say something
-say nothing
-hello 123
-hello
